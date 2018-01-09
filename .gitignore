@@ -1,0 +1,9 @@
+# directories
+.git/
+.idea/
+out/
+
+# files
+.gitattributes
+*.iml
+*.class
